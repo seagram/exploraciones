@@ -1,0 +1,124 @@
+
+el (la) abuelo(a) | grandfather (grandmother)
+el (la) esposo(a) | husband (wife)
+el (la) hermanastro(a) | stepbrother (stepsister)
+el (la) hermano(a) | brother (sister)
+el (la) hijo(a) | son (daughter)
+la madrastra | stepmother
+la madre (mamá) | mother (mom)
+el (la) medio(a) hermano(a) | half-brother (half-sister)
+el (la) nieto(a) | grandson (granddaughter)
+el padrastro | stepfather
+el padre (papá) | father (dad)
+la pareja | partner
+el (la) pariente | relative
+el (la) primo(a) | cousin
+el (la) sobrino(a) | nephew (niece)
+el (la) suegro(a) | father-in-law (mother-in-law)
+el (la) tío(a) | uncle (aunt)
+el caballo | horse
+el (la) gato(a) | cat
+el pájaro | bird
+el (la) perro(a) | dog
+el pez | fish
+el ratón | mouse
+ayudar | to help
+bailar | to dance
+buscar | to look for
+caminar | to walk
+cantar | to sing
+cocinar | to cook
+comprar | to buy
+desear | to wish
+enseñar | to teach
+escuchar | to listen
+esquiar | to ski
+estudiar | to study
+hablar (por teléfono) | to talk (on the phone)
+limpiar | to clean
+llamar | to call
+llegar (a) | to arrive (at)
+mandar (un mensaje) | to send (a message)
+manejar | to drive
+mirar (la tele) | to watch (TV)
+nadar | to swim
+necesitar | to need
+practicar (deportes) | to practice (sports)
+preguntar | to ask
+regresar | to return
+tomar (café) | to drink (coffee)
+trabajar | to work
+usar | to use
+viajar (a) | to travel (to)
+el (la) (mejor) amigo(a) | (best) friend
+la casa | house
+¿Cómo se llama…? | What is …'s name?
+la mascota | pet
+el (la) novio(a) | boyfriend (girlfriend)
+el alemán | German
+el álgebra | algebra
+el arte | art
+la biología | biology
+el cálculo | calculus
+las ciencias naturales | natural sciences
+las ciencias políticas | political sciences
+las ciencias sociales | social sciences
+la criminología | criminology
+la economía | economics
+la educación física | physical education
+el español | Spanish
+la expresión oral | oral expression
+la filosofía | philosophy
+la física | physics
+el francés | French
+la geografía | geography
+la geometría | geometry
+la historia | history
+las humanidades | humanities
+la informática | computer science
+la ingeniería | engineering
+el inglés | English
+las lenguas | languages
+la literatura | literature
+las matemáticas | mathematics
+la música | music
+los negocios | business
+el periodismo | journalism
+la psicología | psychology
+la química | chemistry
+la redacción | writing
+el teatro | theater
+la veterinaria | veterinary science
+el auditorio | auditorium
+la biblioteca | library
+la cafetería | cafeteria
+el centro estudiantil | student center
+el estadio | stadium
+el gimnasio | gym
+el laboratorio | laboratory
+la librería | bookstore
+la residencia estudiantil | dormitory
+tener… años | to be… years old
+tener (mucho) calor | to be (very) hot
+tener (mucho) cuidado | to be (very) careful
+tener (mucho) éxito | to be (very) successful
+tener (mucho) frío | to be (very) cold
+tener ganas de + infinitive | to feel like (doing something)
+tener (mucha) hambre | to be (very) hungry
+tener (mucho) miedo | to be (very) afraid
+tener (mucha) prisa | to be in a (big) hurry
+tener que + infinitive | to have to (do something)
+tener (mucha) razón | to be (very) right
+tener (mucha) sed | to be (very) thirsty
+tener (mucho) sueño | to be (very) sleepy
+tener (mucha) suerte | to be (very) lucky
+la carrera | major
+el (la) compañero(a) de clase | classmate
+el examen (los exámenes) | exam (exams)
+mucho | a lot
+la nota | grade
+poco | a little
+el semestre | semester
+la tarea | homework
+el trimestre | trimester
+varios | several

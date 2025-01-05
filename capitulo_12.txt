@@ -1,0 +1,89 @@
+
+el árbol | tree
+la arena | sand
+el cactus | cactus
+el cambio climático | climate change
+la cascada | cascade
+la catarata | waterfall
+el cielo | sky
+la contaminación | pollution
+la deforestación | deforestation
+los desechos industriales | industrial waste
+la ecología | ecology
+el esmog | smog
+la naturaleza | nature
+la nube | cloud
+la ola | wave
+la palmera | palm tree
+el pasto | grass
+el petróleo | oil
+el reciclaje | recycling
+los recursos naturales | natural resources
+rodeado(a) por | surrounded by
+el volcán | volcano
+la bahía | bay
+el bosque | forest
+la colina | hill
+la costa | coast
+el desierto | desert
+la isla | island
+el llano | plain
+el mar | sea
+la montaña | mountain
+la pampa | plain
+la península | peninsula
+el río | river
+la selva | jungle
+la Tierra | Earth
+el valle | valley
+destruir | to destroy
+hacer erupción | to erupt
+preservar | to preserve
+proteger | to protect
+reciclar | to recycle
+el águila (f.) | eagle
+la ardilla | squirrel
+la ballena | whale
+la cebra | zebra
+el cerdo | pig
+el cocodrilo | crocodile
+el conejo | rabbit
+el elefante | elephant
+la gallina | hen
+el gallo | rooster
+el gorila | gorilla
+el jaguar | jaguar
+la jirafa | giraffe
+el león | lion
+la llama | llama
+el lobo | wolf
+el mono | monkey
+el oso | bear
+la oveja | sheep
+el pato | duck
+el pavo | turkey
+el pingüino | penguin
+el pollo | chicken
+la rana | frog
+la serpiente | snake
+el tiburón | shark
+el tigre | tiger
+el toro | bull
+la tortuga | turtle
+la vaca | cow
+el venado | deer
+el zorro | fox
+los anfibios | amphibians
+las aves | birds
+los mamíferos | mammals
+los peces | fish
+los reptiles | reptiles
+cazar | to hunt
+la caza | hunting
+domesticado(a) | domesticated
+la granja | farm
+la hembra | female
+la jaula | cage
+el macho | male
+estar en peligro de extinción | to be endangered
+salvaje | wild

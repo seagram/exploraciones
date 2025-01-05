@@ -1,0 +1,115 @@
+
+el abrigo | coat
+la blusa | blouse
+los bluyines | jeans
+la bolsa | bag
+las botas | boots
+la bufanda | scarf
+los calcetines | socks
+la camisa | shirt
+la camiseta | t-shirt
+la chaqueta | jacket
+la corbata | tie
+la falda | skirt
+el gorro | hat
+los guantes | gloves
+el impermeable | raincoat
+los lentes | glasses
+los pantalones | pants
+los pantalones cortos | shorts
+el paraguas | umbrella
+el/la pijama | pajamas
+las sandalias | sandals
+el sombrero | hat
+el suéter | sweater
+los tenis | sneakers
+el traje | suit
+el traje de baño | swimsuit
+el vestido | dress
+los zapatos | shoes
+Está despejado. | It's clear.
+Está nublado. | It's cloudy.
+Hace buen tiempo. | The weather is nice.
+Hace calor. | It's hot.
+Hace fresco. | It's cool.
+Hace frío. | It's cold.
+Hace mal tiempo. | The weather is bad.
+Hace sol. | It's sunny.
+Hace viento. | It's windy.
+Llueve. | It's raining.
+Nieva. | It's snowing.
+el invierno | winter
+el otoño | fall
+la primavera | spring
+el verano | summer
+abrir | to open
+aprender (a + infinitive) | to learn (to do something)
+asistir (a) | to attend
+beber | to drink
+comer | to eat
+comprender | to understand
+correr | to run
+creer | to believe
+deber | to owe/should
+decidir | to decide
+escribir | to write
+leer (un periódico) | to read (a newspaper)
+recibir (un regalo) | to receive (a gift)
+vender | to sell
+vivir | to live
+amarillo(a) | yellow
+anaranjado(a) | orange
+azul | blue
+blanco(a) | white
+café | brown
+gris | gray
+morado(a) | purple
+negro(a) | black
+rojo(a) | red
+rosado(a) | pink
+verde | green
+cómodo(a) | comfortable
+llevar | to carry
+llevar puesto(a) | to wear
+el lunes | Monday
+el martes | Tuesday
+el miércoles | Wednesday
+el jueves | Thursday
+el viernes | Friday
+el sábado | Saturday
+el domingo | Sunday
+enero | January
+febrero | February
+marzo | March
+abril | April
+mayo | May
+junio | June
+julio | July
+agosto | August
+septiembre | September
+octubre | October
+noviembre | November
+diciembre | December
+ir | to go
+ir de compras | to go shopping
+ir de excursión | to go on a hike
+ir de paseo | to go for a walk
+ir de vacaciones | to go on vacation
+terminar | to finish
+ahora | now
+el Año Nuevo | New Year
+el cumpleaños | birthday
+el día | day
+el día feriado | holiday
+la fecha | date
+el fin de semana | weekend
+hoy | today
+mañana | tomorrow
+la medianoche | midnight
+el mediodía | noon
+la Navidad | Christmas
+la semana | week
+por la mañana | in the morning
+por la tarde | in the afternoon
+por la noche | at night
+todos los días | every day

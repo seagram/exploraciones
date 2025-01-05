@@ -1,0 +1,107 @@
+
+el corazón | heart
+el esqueleto | skeleton
+el hueso | bone
+las muletas | crutches
+el órgano vital | vital organ
+el (la) paciente | patient
+los primeros auxilios | first aid
+los pulmones | lungs
+la radiografía | X-ray
+la sala de emergencias | emergency room
+la salud | health
+la sangre | blood
+el seguro | insurance
+la silla de ruedas | wheelchair
+el yeso | cast
+la alergia | allergy
+la cortada | cut
+la diarrea | diarrhea
+el dolor (de) | pain (in)
+la presión baja/alta | low/high blood pressure
+el cáncer | cancer
+la diabetes | diabetes
+la gripe | flu
+la hipertensión | hypertension
+el insomnio | insomnia
+el resfriado | cold
+la aspirina | aspirin
+la cirugía | surgery
+la curita | adhesive bandage
+las gotas | drops
+la inyección | injection
+el jarabe | syrup
+la pastilla | pill
+la receta médica | prescription
+la vacuna | vaccine
+el vendaje | bandage
+dejar de fumar | to quit smoking
+descansar | to rest
+desmayarse | to faint
+doler (ue) | to hurt
+enfermarse | to get sick
+estar mareado(a) | to feel dizzy
+estar congestionado(a) | to be congested
+estornudar | to sneeze
+examinar | to examine
+fracturarse | to fracture
+recuperarse | to recover
+respirar | to breathe
+sentir náuseas | to feel nauseous
+tomar la presión | to take blood pressure
+toser | to cough
+argentino(a) | Argentinian
+boliviano(a) | Bolivian
+chileno(a) | Chilean
+colombiano(a) | Colombian
+costarricense | Costa Rican
+cubano(a) | Cuban
+dominicano(a) | Dominican
+ecuatoguineano(a) | Equatorial Guinean
+ecuatoriano(a) | Ecuadorian
+español(a) | Spanish
+guatemalteco(a) | Guatemalan
+hondureño(a) | Honduran
+mexicano(a) | Mexican
+nicaragüense | Nicaraguan
+panameño(a) | Panamanian
+paraguayo(a) | Paraguayan
+peruano(a) | Peruvian
+puertorriqueño(a) | Puerto Rican
+salvadoreño(a) | Salvadoran
+uruguayo(a) | Uruguayan
+venezolano(a) | Venezuelan
+la beca | scholarship
+el choque cultural | culture shock
+el (la) ciudadano(a) | citizen
+la embajada | embassy
+el gobierno | government
+el idioma | language
+el organismo internacional | international organization
+el país | country
+el pasaporte | passport
+acostumbrarse (a) | to get used to
+asimilarse | to assimilate
+emigrar | to emigrate
+establecerse | to settle
+extrañar | to miss
+inmigrar | to immigrate
+mejorar | to improve
+migrar | to migrate
+mudarse | to move
+bilingüe | bilingual
+extranjero(a) | foreign
+hispanohablante | Spanish-speaking
+a fin de que | so that
+a menos que | unless
+antes (de) que | before
+aunque | although
+con tal (de) que | provided that
+después (de) que | after
+en caso de que | in case
+en cuanto | as soon as
+hasta que | until
+para que | so that
+siempre y cuando | as long as
+sin que | without
+tan pronto (como) | as soon as

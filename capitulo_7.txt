@@ -1,0 +1,108 @@
+
+el durazno | peach
+la fresa | strawberry
+la manzana | apple
+el melón | melon
+la naranja | orange
+la piña | pineapple
+el plátano | banana
+la sandía | watermelon
+las uvas | grapes
+el brócoli | broccoli
+la cebolla | onion
+la lechuga | lettuce
+el maíz | corn
+la papa | potato
+el pepino | cucumber
+el tomate | tomato
+la zanahoria | carrot
+la crema | cream
+la leche | milk
+la mantequilla | butter
+el queso | cheese
+el yogur | yogurt
+la catsup | ketchup
+el cereal | cereal
+el huevo | egg
+el jamón | ham
+la mayonesa | mayonnaise
+la mermelada | jam
+la mostaza | mustard
+el pan | bread
+el pepinillo | pickle
+hornear | to bake
+el almuerzo | lunch
+la cena | dinner
+el desayuno | breakfast
+frito(a) | fried
+los lácteos | dairy products
+la rebanada | slice
+cien | one hundred
+ciento uno | one hundred and one
+doscientos | two hundred
+trescientos | three hundred
+cuatrocientos | four hundred
+quinientos | five hundred
+seiscientos | six hundred
+setecientos | seven hundred
+ochocientos | eight hundred
+novecientos | nine hundred
+mil | one thousand
+dos mil | two thousand
+un millón | one million
+la copa | glass (for wine)
+la cuchara | spoon
+el cuchillo | knife
+el mantel | tablecloth
+el plato | plate
+la servilleta | napkin
+la taza | cup
+el tazón | bowl
+el tenedor | fork
+el vaso | glass
+el agua embotellada | bottled water
+el arroz | rice
+el azúcar | sugar
+la bebida | drink
+el camarón | shrimp
+la carne | meat
+el cerdo | pork
+la cerveza | beer
+el chocolate | chocolate
+el coctel | cocktail
+la ensalada | salad
+el entremés | appetizer
+el flan | flan
+la hamburguesa | hamburger
+el helado | ice cream
+el jugo | juice
+el pastel | cake
+el pavo | turkey
+el pescado | fish
+la pimienta | pepper
+el pollo | chicken
+el postre | dessert
+la quesadilla | quesadilla
+el refresco | soda
+la sal | salt
+el sándwich | sandwich
+la sopa | soup
+el té | tea
+los totopos | tortilla chips
+la vainilla | vanilla
+el vino blanco | white wine
+el vino tinto | red wine
+cenar | to have dinner
+dejar (una propina) | to leave (a tip)
+desayunar | to have breakfast
+felicitar | to congratulate
+querer | to want
+llevar | to carry
+saludar | to greet
+al horno | baked
+asado(a) | roasted
+la comida | meal/food
+la cuenta | bill
+Me gustaría | I would like
+la orden | order
+el plato principal | main dish

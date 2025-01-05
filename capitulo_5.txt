@@ -1,0 +1,92 @@
+
+aburrido(a) | bored
+alegre | happy
+asustado(a) | scared
+avergonzado(a) | embarrassed
+cansado(a) | tired
+celoso(a) | jealous
+confundido(a) | confused
+contento(a) | happy
+deprimido(a) | depressed
+emocionado(a) | excited
+enamorado(a) (de) | in love (with)
+enfermo(a) | sick
+enojado(a) | angry
+equivocado(a) | wrong
+feliz | happy
+frustrado(a) | frustrated
+interesado(a) | interested
+loco(a) | crazy
+nervioso(a) | nervous
+ocupado(a) | busy
+preocupado(a) | worried
+sano(a) | healthy
+seguro(a) | sure
+sorprendido(a) | surprised
+triste | sad
+la salud | health
+estar listo(a) | to be ready
+ser listo(a) | to be clever
+estar de acuerdo | to agree
+el (la) abogado(a) | lawyer
+el actor | actor
+la actriz | actress
+el (la) agente de viajes | travel agent
+el amo(a) de casa | homemaker
+el (la) arquitecto(a) | architect
+el (la) asistente de vuelo | flight attendant
+el bailarín/la bailarina | dancer
+el (la) cantante | singer
+el (la) científico(a) | scientist
+el (la) cocinero(a) | cook
+el (la) consejero(a) | counselor
+el (la) contador(a) | accountant
+el (la) dependiente | clerk
+el (la) deportista | athlete
+el (la) diseñador(a) | designer
+el (la) enfermero(a) | nurse
+el (la) escritor(a) | writer
+el (la) fotógrafo(a) | photographer
+el (la) ingeniero(a) | engineer
+el jefe/la jefa | boss
+el (la) maestro(a) | teacher
+el (la) mecánico(a) | mechanic
+el (la) médico(a) | doctor
+el (la) mesero(a) | waiter (waitress)
+el (la) modelo | model
+el (la) músico(a) | musician
+el (la) periodista | journalist
+el (la) piloto | pilot
+el (la) pintor(a) | painter
+el policía/la mujer policía | police officer
+el (la) político(a) | politician
+el (la) psicólogo(a) | psychologist
+el (la) secretario(a) | secretary
+el (la) trabajador(a) social | social worker
+el (la) vendedor(a) | salesperson
+el (la) veterinario(a) | veterinarian
+el (la) cliente | client
+la entrevista | interview
+la solicitud | application
+el sueldo | salary
+el trabajo | work
+conducir | to drive
+conocer | to know
+dar | to give
+decir (i) | to say
+ganar | to earn
+hacer | to do/make
+hacer la cama | to make the bed
+hacer ejercicio | to exercise
+hacer una fiesta | to have a party
+hacer una pregunta | to ask a question
+hacer la tarea | to do homework
+hacer un viaje | to take a trip
+oír | to hear
+poner | to put
+saber | to know
+salir | to leave
+seguir (i) | to follow
+traer | to bring
+venir (ie) | to come
+ver | to see

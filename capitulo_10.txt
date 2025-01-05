@@ -1,0 +1,74 @@
+
+a tiempo | on time
+la aduana | customs
+el asiento | seat
+el boleto | ticket
+la clase turista | economy class
+la conexión | connection
+el equipaje | luggage
+el equipaje de mano | carry-on luggage
+la estación de autobuses | bus station
+la llegada | arrival
+el (la) pasajero(a) | passenger
+el pasillo | aisle
+el pasaporte | passport
+la primera clase | first class
+retrasado(a) | delayed
+la sala de espera | waiting room
+la salida | departure
+la ventanilla | window
+el aeropuerto internacional | international airport
+el (la) agente de seguridad | security agent
+el cinturón de seguridad | seatbelt
+la escala | layover
+la maleta | suitcase
+el mostrador | counter
+el pase de abordar | boarding pass
+la puerta (de salida) | (departure) gate
+el reclamo de equipaje | baggage claim
+la revisión de equipaje | baggage inspection
+la visa | visa
+el vuelo | flight
+el andén | platform
+el coche cama | sleeper car
+la litera | bunk bed
+la parada | stop
+el (la) revisor(a) | ticket inspector
+la taquilla | ticket office
+el vagón | train car
+abordar | to board
+aterrizar | to land
+despegar | to take off
+doblar | to turn
+facturar equipaje | to check luggage
+pasar por seguridad | to go through security
+perder | to lose
+seguir derecho | to go straight
+el alojamiento | lodging
+el ascensor | elevator
+el (la) botones | bellhop
+el (la) camarero(a) | waiter/waitress
+el centro de negocios | business center
+las escaleras | stairs
+el (la) gerente | manager
+el (la) huésped | guest
+el Internet inalámbrico | wireless Internet
+la llave | key
+la recepción | reception desk
+el (la) recepcionista | receptionist
+la sala de conferencias | conference room
+el sauna | sauna
+el servicio a la habitación | room service
+el transporte | transportation
+el (la) turista | tourist
+alojarse | to stay
+bajar | to go down
+hacer el check out | to check out
+quedarse | to stay
+registrarse | to check in
+subir | to go up
+disponible | available
+(la habitación) doble | double room
+de lujo | luxury
+(la habitación) sencilla | single room
+(la habitación) triple | triple room
